@@ -1,0 +1,474 @@
+~Barrels
+    Sawn_Log   1
+    Nails      1
+    Iron_Ingot 1
+~Chest
+    Sawn_Log      1
+    Nails         1
+    Iron_Fittings 1
+    Hinge         2
+    Lock          1
+~Cupboard
+    Sawn_Log      2
+    Nails         4
+    Iron_Fittings 1
+~Desk
+    Iron_Fittings 1
+    Nails         2
+    Sawn_Log      1
+~Display_Case_and_Cupboard
+    Sawn_Log      2
+    Nails         4
+    Hinge         2
+    Iron_Fittings 1
+    Glass         2
+~Display_Case_And_Small_Wardrobe
+    Iron_Fittings 1
+    Nails         4
+    Sawn_Log      2
+    Hinge         1
+    Glass         1
+~Dresser
+    Sawn_Log      1
+    Nails         3
+    Iron_Fittings 1
+~End_Table_1
+    Sawn_Log 1
+    Nails    2
+~End_Table_2
+    Sawn_Log 2
+    Nails    4
+~Hanging_Rack
+    Iron_Ingot    1
+    Iron_Fittings 1
+~Safe_1
+    Lock        1
+    Hinge       1
+    Steel_Ingot 3
+~Safe_2
+    Lock        5
+    Hinge       5
+    Steel_Ingot 15
+~Tall_Wardrobe
+    Iron_Fittings 1
+    Nails         4
+    Sawn_Log      2
+    Hinge         1
+~Wardrobe_Small
+    Iron_Fittings 1
+    Nails         2
+    Sawn_Log      1
+~Chair
+    Sawn_Log 1
+    Nails    1
+~Child_Bed
+    Sawn_Log       1
+    Nails          1
+    Leather_Strips 2
+    Straw          1
+~Dining_Table_and_Chairs
+    Sawn_Log 3
+    Nails    5
+~Display_Case
+    Nails    2
+    Sawn_Log 1
+    Hinge    1
+    Glass    1
+~Display_Case_on_Low_Table
+    Sawn_Log 2
+    Nails    4
+    Hinge    1
+    Glass    1
+~Double_Bed
+    Sawn_Log       2
+    Nails          2
+    Leather_Strips 4
+    Straw          2
+~Large_Table_with_Chest
+    Sawn_Log      2
+    Nails         4
+    Hinge         2
+    Iron_Fittings 1
+    Lock          1
+~Low_Table
+    Sawn_Log 1
+    Nails    2
+~Night_Table_1
+    Sawn_Log 1
+    Nails    2
+~Night_Tables_2
+    Sawn_Log 2
+    Nails    4
+~Round_Table
+    Sawn_Log 1
+    Nails    2
+~Round_Table_and_Chairs
+    Sawn_Log 2
+    Nails    4
+~Single_Bed
+    Sawn_Log       1
+    Nails          1
+    Leather_Strips 2
+    Straw          1
+~Square_Table
+    Sawn_Log 1
+    Nails    2
+~Square_Table_and_Chairs
+    Sawn_Log 2
+    Nails    4
+~Table_with_Display_Cases
+    Sawn_Log 2
+    Nails    4
+    Hinge    2
+    Glass    2
+~Washbasin_on_Stand
+    Sawn_Log   1
+    Nails      1
+    Iron_Ingot 1
+~Armor_Mannequin
+    Sawn_Log       1
+    Nails          1
+    Quarried_Stone 1
+~Armor_Mannequin_with_Cupboard
+    Sawn_Log       1
+    Nails          5
+    Quarried_Stone 1
+    Iron_Fittings  1
+~Weapon_Plaque
+    Sawn_Log      1
+    Iron_Fittings 1
+~Weapon_Racks_1
+    Sawn_Log      2
+    Iron_Fittings 2
+~Weapon_Racks_2
+    Sawn_Log      3
+    Iron_Fittings 4
+~Weapon_Racks_3
+    Sawn_Log      4
+    Iron_Fittings 5
+~Bench
+    Sawn_Log 1
+    Nails    1
+~Table_With_Benches
+    Sawn_Log 2
+    Nails    4
+~Bookshelf
+    Sawn_Log 2
+    Nails    4
+~Corner_Shelf
+    Sawn_Log 1
+    Nails    3
+~Display_Case_and_Shelf
+    Sawn_Log 2
+    Nails    4
+    Hinge    1
+    Glass    1
+~Small_Shelf
+    Sawn_Log 1
+    Nails    3
+~Tall_Bookshelf
+    Sawn_Log 2
+    Nails    4
+~Tall_Shelf
+    Sawn_Log 2
+    Nails    4
+~Tall_Shelf_with_Display_Case
+    Sawn_Log 2
+    Nails    4
+    Glass    1
+    Hinge    1
+~Wall_Shelves_1
+    Sawn_Log 1
+    Nails    1
+~Wall_Shelves_2
+    Sawn_Log 2
+    Nails    2
+~Alchemy_Lab
+    Sawn_Log          1
+    Nails             2
+    Glass             1
+    Quicksilver_Ingot 1
+    Iron_Ingot        1
+~Arcane_Enchanter
+    Sawn_Log            1
+    Nails               1
+    Glass               1
+    Refined_Moonstone   1
+    Iron_Ingot          1
+    Grand_Soul_Gem_Full 1
+    Gold_Ingot          1
+~Brazer
+    Iron_Ingot 1
+~Coffin
+    Vampire_Dust 1
+    Sawn_Log     1
+    Hinge        1
+    Nails        2
+~Archery_Target_1
+    Leather_Strips 1
+    Sawn_Log       1
+    Straw          2
+~Archery_Targets_2
+    Leather_Strips 2
+    Sawn_Log       1
+    Straw          4
+~Armorer_Workbench
+    Sawn_Log       1
+    Iron_Ingot     1
+    Quarried_Stone 2
+~Blacksmith_Forge
+    Iron_Fittings  1
+    Iron_Ingot     1
+    Sawn_Log       2
+    Quarried_Stone 5
+~Blacksmith_Anvil
+    Iron_Ingot 4
+    Sawn_Log   1
+~Chandelier_Large
+    Iron_Ingot    2
+    Iron_Fittings 1
+~Chandelier_Small
+    Iron_Ingot    1
+    Goat_Horns    3
+    Iron_Fittings 1
+~Child_Practice_Dummy
+    Leather_Strips 1
+    Sawn_Log       1
+    Straw          2
+~Fireplace
+    Sawn_Log       1
+    Quarried_Stone 4
+~Firepit
+    Quarried_Stone 1
+~Grindstone
+    Sawn_Log       1
+    Iron_Fittings  1
+    Quarried_Stone 1
+~Lamp_Stand
+    Iron_Ingot 1
+    Goat_Horns 3
+~Mead_Barrels
+    Sawn_Log       1
+    Nails          1
+    Iron_Ingot     1
+    Quarried_Stone 2
+~Mounted_Bear_Head
+    Leather_Strips 1
+    Bear_Pelt      1
+~Mounted_Elk_Antlers
+    Large_Antlers  1
+    Leather_Strips 1
+~Mounted_Elk_Head_1
+    Deer_Hide      1
+    Large_Antlers  1
+    Leather_Strips 1
+~Mounted_Elk_Head_2
+    Deer_Hide      1
+    Small_Antlers  1
+    Leather_Strips 1
+~Mounted_Goat_Head
+    Leather_Strips 1
+    Goat_Hide      1
+~Mounted_Horker_Head
+    Leather_Strips 1
+    Horker_Tusk    2
+~Mounted_Mudcrab
+    Leather_Strips 1
+    Mudcrab_Chitin 2
+~Mounted_Sabre_Cat_Head
+    Leather_Strips  1
+    Sabre_Cat_Pelt  1
+    Sabre_Cat_Tooth 2
+~Mounted_Slaughterfish
+    Leather_Strips       1
+    Slaughterfish_Scales 4
+~Mounted_Snowy_Sabre_Cat_Head
+    Leather_Strips      1
+    Sabre_Cat_Snow_Pelt 1
+    Sabre_Cat_Tooth     2
+~Mounted_Wolf_Head
+    Leather_Strips 1
+    Wolf_Pelt      1
+~Large_Planter
+    Sawn_Log       1
+    Quarried_Stone 2
+    Clay           2
+~Small_Planter_with_Cupboard
+    Sawn_Log      2
+    Nails         4
+    Iron_Fittings 1
+    Clay          2
+~Oven
+    Clay           2
+    Quarried_Stone 3
+~Shrine_Base
+    Clay           2
+    Quarried_Stone 2
+    Sawn_Log       1
+~Shrine_of_Akatosh
+    Amulet_of_Akatosh 1
+    Iron_Ingot        1
+    Flawless_Amethyst 1
+    Corundum_Ingot    1
+~Shrine_of_Arkay
+    Amulet_of_Arkay  1
+    Orichalcum_Ingot 1
+    Silver_Ingot     1
+    Iron_Ingot       1
+~Shrine_of_Dibella
+    Amulet_of_Dibella 1
+    Iron_Ingot        1
+    Orichalcum_Ingot  1
+    Quicksilver_Ingot 1
+~Shrine_of_Julianos
+    Amulet_of_Julianos 1
+    Ebony_Ingot        2
+~Shrine_of_Kynareth
+    Amulet_of_Kynareth 1
+    Refined_Moonstone  2
+    Flawless_Sapphire  1
+~Shrine_of_Mara
+    Amulet_of_Mara    1
+    Silver_Ingot      1
+    Refined_Malachite 2
+~Shrine_of_Stendarr
+    Amulet_of_Stendarr 1
+    Quicksilver_Ingot  1
+    Steel_Ingot        1
+    Silver_Ingot       2
+~Shrine_of_Talos
+    Amulet_of_Talos 1
+    Steel_Ingot     1
+    Dragon_Bone     1
+    Dragon_Scales   1
+~Shrine_of_Zenithar
+    Amulet_of_Zenithar 1
+    Steel_Ingot        1
+    Gold_Ingot         2
+~Smelter
+    Quarried_Stone 4
+    Iron_Fittings  2
+    Iron_Ingot     5
+    Clay           6
+~Tanning_Rack
+    Leather_Strips 1
+    Sawn_Log       1
+~Trophy_Base_Large
+    Quarried_Stone 1
+    Sawn_Log       1
+    Clay           2
+~Trophy_Base_Small
+    Quarried_Stone 1
+    Sawn_Log       1
+    Clay           1
+~Wall_Sconce
+    Iron_Fittings 1
+    Goat_Horns    1
+~Trophy_Bear
+    Bear_Claws 2
+    Bear_Pelt  1
+    Straw      1
+~Trophy_Chaurus
+    Chaurus_Chitin 3
+    Straw          1
+~Trophy_Cow
+    Cow_Hide 1
+    Straw    1
+~Trophy_Deer
+    Deer_Hide     1
+    Large_Antlers 1
+    Straw         1
+~Trophy_Dragon_Skull
+    Dragon_Bone 1
+~Trophy_Draugr
+    Bone_Meal          5
+    Ancient_Nord_Sword 1
+    Straw              1
+~Trophy_Dwarven_Sphere
+    Dwemer_Scrap_Metal 5
+~Trophy_Falmer
+    Falmer_Sword 1
+    Falmer_Ear   2
+~Trophy_Frost_Troll
+    Troll_Fat   1
+    Troll_Skull 1
+    Straw       1
+~Trophy_Frostbite_Spider
+    Frostbite_Venom 2
+    Straw           1
+~Trophy_Horker
+    Horker_Tusk 2
+    Straw       2
+~Trophy_Sabre_Cat
+    Sabre_Cat_Pelt  1
+    Sabre_Cat_Tooth 2
+    Straw           1
+~Trophy_Snow_Bear
+    Snow_Bear_Pelt 1
+    Bear_Claws     2
+    Straw          1
+~Trophy_Troll
+    Troll_Skull 1
+    Troll_Fat   1
+    Straw       1
+~Trophy_Wolf
+    Wolf_Pelt 1
+    Straw     1
+~Trophy_Draugr_Small
+    Bone_Meal          5
+    Ancient_Nord_Bow   1
+    Straw              1
+    Ancient_Nord_Arrow 6
+~Trophy_Dwarven_Spider
+    Dwemer_Scrap_Metal 2
+    Petty_Soul_Gem     1
+~Trophy_Falmer_Small
+    Falmer_Sword 1
+    Falmer_Ear   2
+~Trophy_Goat
+    Goat_Hide  1
+    Goat_Horns 2
+    Straw      1
+~Trophy_Hagraven
+    Hagraven_Feathers 6
+    Hagraven_Claw     2
+    Straw             1
+~Trophy_Ice_Wolf
+    Ice_Wolf_Pelt 1
+    Straw         1
+~Trophy_Mudcrab
+    Mudcrab_Chitin 3
+~Trophy_Skeever
+    Charred_Skeever_Hide 1
+    Skeever_Tail         1
+    Straw                1
+~Trophy_Skeleton
+    Ancient_Nord_Bow   1
+    Ancient_Nord_Arrow 1
+    Skull              1
+    Bone_Meal          5
+~Trophy_Slaughterfish
+    Slaughterfish_Scales 3
+    Straw                1
+~Trophy_Spriggan
+    Sawn_Log 1
+    Taproot  1
+~Fish_Hatchery
+    Quarried_Stone 3
+    Sawn_Log       3
+    Nails          4
+~Apiary
+    Sawn_Log 2
+    Nails    1
+    Straw    2
+~Grain_Mill
+    Quarried_Stone 2
+    Sawn_Log       2
+    Iron_Fittings   2
+~Animal_Pen
+    Sawn_Log 1
+~Garden
+    Sawn_Log 1
+~Stable
+    Sawn_Log 3
+    Nails     5
